@@ -7,14 +7,14 @@ The website can assist admins in listing tourist attractions in Saudi Arabia, th
 the process of discovering and acquiring information about the finest tourist attractions for 
 tourists to visit
 
-## scope
+## Scope
 
-•	Program with only html, CSS, php, and JavaScript languages.
-•	Support only English language.
-•	Review only attractions in Saudi Arabia.
-•	Tourists can view, write, and search reviews about Saudi Arabia attractions but cannot edit them.
-•	Tourists can share their reviews on social media.
-•	The admin can upload, modify, delete Saudi Arabia attraction posts, and view them with the reviews.
+- Program with only html, CSS, php, and JavaScript languages.
+- Support only English language.
+-	Review only attractions in Saudi Arabia.
+-	Tourists can view, write, and search reviews about Saudi Arabia attractions but cannot edit them.
+-	Tourists can share their reviews on social media.
+- The admin can upload, modify, delete Saudi Arabia attraction posts, and view them with the reviews.
 
 
 
