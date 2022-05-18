@@ -24,3 +24,4 @@ tourists to visit
 - Ghadeer Almaymoon
 - Dhai Almurshed
 - Randa Bakhashwain
+- This site was built using [Manar Mutaieb](441201106@student.ksu.edu.sa).
