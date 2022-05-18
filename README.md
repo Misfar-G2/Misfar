@@ -11,6 +11,6 @@ tourists to visit
 
 # Authors
 - Manar
--Ghadeer
--Dhi
--Randa
+- Ghadeer
+- Dhi
+- Randa
