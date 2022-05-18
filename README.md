@@ -20,8 +20,7 @@ tourists to visit
 
 
 ## Authors
-- Manar Mutaieb
-- Ghadeer Almaymoon
-- Dhai Almurshed
-- Randa Bakhashwain
--<a href="mailto:441201106@student.ksu.edu.sa">Manra</a>
+- <a href="mailto:441201106@student.ksu.edu.sa">Manar Mutaieb</a>
+- <a href="mailto:ghadeerabdulmajeed@gmail.com">Ghadeer Almaymoon</a>
+- <a href="Almursheddhai@gmail.com">Dhai Almurshed </a>
+- <a href="mailto:rand.msb@gmail.com">Randa Bakhashwain</a>
